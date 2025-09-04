@@ -4,9 +4,9 @@
 
 ### 📌 Azure Boards
 <!-- Indique la story principale "Closed AB#<id>" et pour ses tâches, répète les lignes "Done AB#<id>" -->
-- Closed AB#
-  - Done AB#
-  - Done AB#
+- Fixed AB#
+  - Fixed AB#
+  - Fixed AB#
 <!-- Pour plusieurs stories, duplique la ligne "Closed AB#<id>" -->
 
 ### ✅ Tests
