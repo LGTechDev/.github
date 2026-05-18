@@ -3,11 +3,11 @@
 <!-- ex: refactor(api): validator rules -->
 
 ### 📌 Azure Boards
-<!-- Indique la story principale "Fixed AB#<id>" et pour ses tâches, répète les lignes "Fixed AB#<id>" -->
-- Fixed AB#
-  - Fixed AB#
-  - Fixed AB#
-<!-- Pour plusieurs stories, duplique la ligne "Fixed AB#<id>" -->
+<!-- Indique la story principale "Closed AB#<id>" et pour ses tâches, répète les lignes "Closed AB#<id>" -->
+- Closed AB#
+  - Closed AB#
+  - Closed AB#
+<!-- Pour plusieurs stories, duplique la ligne "Closed AB#<id>" -->
 
 ### ✅ Tests
 - [ ] Unitaires
